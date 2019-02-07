@@ -12,9 +12,11 @@ appDefualt.set("Shihab Uddin", forKey: "name") // here for forkey: is the key & 
 
 let preference = UserDefaults.standard  // You need an instance of UserDefaults
 
-let value = preference.string(forKey: "name") ??  ""   // You give the key here we get string value
+let value = preference.string(forKey: "name") ??  ""  // You should give the key name (my key name is "name")
 
-Image
+## Image
+
+
 
 
 
