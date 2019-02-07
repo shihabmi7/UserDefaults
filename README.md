@@ -16,6 +16,7 @@ let value = preference.string(forKey: "name") ??  ""  // You should give the key
 
 ## Image
 
+![alt Image](https://github.com/shihabmi7/UserDefaults/blob/master/UserDefaults/Screen%20Shot%202019-02-07%20at%2012.52.46%20PM.png)
 
 
 
