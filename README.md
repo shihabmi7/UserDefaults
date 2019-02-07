@@ -1,6 +1,6 @@
 # How to use UserDefaults
 
-## Step 1: Initiaze UserDefaults
+## Step 1: Initialize UserDefaults
 
 let appDefualt = UserDefaults.standard
         
